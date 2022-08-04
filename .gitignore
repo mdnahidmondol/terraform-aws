@@ -1,0 +1,8 @@
+.terraform/
+*.dll
+*.exe
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+# Local .terraform directories
+**/.terraform/*
